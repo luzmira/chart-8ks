@@ -9,6 +9,6 @@ entries:
     name: datascientest
     type: application
     urls:
-    - https://github.com/luzmira/chart-k8s.git/datascientest-0.1.0.tgz
+    - https://github.com/luzmira/chart-k8s.git/
     version: 0.1.0
 generated: "2023-09-01T09:39:54.582034346Z"
